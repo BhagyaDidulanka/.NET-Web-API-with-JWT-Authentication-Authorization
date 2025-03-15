@@ -1,5 +1,37 @@
 [
   {
+    "ContainingType": "Authentication_and_Authorization___JWT_Tokens.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userDto",
+        "Type": "Authentication_and_Authorization___JWT_Tokens.DTOs.UserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Authentication_and_Authorization___JWT_Tokens.Controllers.AuthController",
+    "Method": "Register",
+    "RelativePath": "api/Auth/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userDto",
+        "Type": "Authentication_and_Authorization___JWT_Tokens.DTOs.UserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Authentication_and_Authorization___JWT_Tokens.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",

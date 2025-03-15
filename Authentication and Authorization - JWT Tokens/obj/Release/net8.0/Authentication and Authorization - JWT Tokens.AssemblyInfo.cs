@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Authentication and Authorization - JWT Tokens")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+980030ed1ed4a02c7cda5e7000fdc50be56de4f6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+904e86e0174fb133a67b8ccfe3e7d8cb750a0d54")]
 [assembly: System.Reflection.AssemblyProductAttribute("Authentication and Authorization - JWT Tokens")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Authentication and Authorization - JWT Tokens")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
