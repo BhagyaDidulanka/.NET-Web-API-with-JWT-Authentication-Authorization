@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\Desktop\\Secure-.NET-Web-API-with-JWT-Authentication-Authorization\\Authentication and Authorization - JWT Tokens\\Authentication and Authorization - JWT Tokens\\Authentication and Authorization - JWT Tokens.csproj": {}
+    "C:\\Users\\Asus\\Desktop\\.NET-Web-API-with-JWT-Authentication-Authorization\\Authentication and Authorization - JWT Tokens\\Authentication and Authorization - JWT Tokens.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\Desktop\\Secure-.NET-Web-API-with-JWT-Authentication-Authorization\\Authentication and Authorization - JWT Tokens\\Authentication and Authorization - JWT Tokens\\Authentication and Authorization - JWT Tokens.csproj": {
+    "C:\\Users\\Asus\\Desktop\\.NET-Web-API-with-JWT-Authentication-Authorization\\Authentication and Authorization - JWT Tokens\\Authentication and Authorization - JWT Tokens.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\Secure-.NET-Web-API-with-JWT-Authentication-Authorization\\Authentication and Authorization - JWT Tokens\\Authentication and Authorization - JWT Tokens\\Authentication and Authorization - JWT Tokens.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\.NET-Web-API-with-JWT-Authentication-Authorization\\Authentication and Authorization - JWT Tokens\\Authentication and Authorization - JWT Tokens.csproj",
         "projectName": "Authentication and Authorization - JWT Tokens",
-        "projectPath": "C:\\Users\\Asus\\Desktop\\Secure-.NET-Web-API-with-JWT-Authentication-Authorization\\Authentication and Authorization - JWT Tokens\\Authentication and Authorization - JWT Tokens\\Authentication and Authorization - JWT Tokens.csproj",
+        "projectPath": "C:\\Users\\Asus\\Desktop\\.NET-Web-API-with-JWT-Authentication-Authorization\\Authentication and Authorization - JWT Tokens\\Authentication and Authorization - JWT Tokens.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\Desktop\\Secure-.NET-Web-API-with-JWT-Authentication-Authorization\\Authentication and Authorization - JWT Tokens\\Authentication and Authorization - JWT Tokens\\obj\\",
+        "outputPath": "C:\\Users\\Asus\\Desktop\\.NET-Web-API-with-JWT-Authentication-Authorization\\Authentication and Authorization - JWT Tokens\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

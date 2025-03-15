@@ -8,7 +8,7 @@ namespace Authentication_and_Authorization___JWT_Tokens.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching","TEst"
+            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching","TEst1","Test2"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
