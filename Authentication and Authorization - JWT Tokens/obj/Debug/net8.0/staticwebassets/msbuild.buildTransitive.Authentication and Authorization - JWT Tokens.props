@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Authentication and Authorization - JWT Tokens.props" />
+</Project>

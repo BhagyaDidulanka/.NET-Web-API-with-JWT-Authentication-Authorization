@@ -1,0 +1,36 @@
+C:\Users\Asus\Desktop\Authentication and Authorization - JWT Tokens\Authentication and Authorization - JWT Tokens\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Asus\Desktop\Authentication and Authorization - JWT Tokens\Authentication and Authorization - JWT Tokens\bin\Debug\net8.0\appsettings.json
+C:\Users\Asus\Desktop\Authentication and Authorization - JWT Tokens\Authentication and Authorization - JWT Tokens\bin\Debug\net8.0\Authentication and Authorization - JWT Tokens.staticwebassets.endpoints.json
+C:\Users\Asus\Desktop\Authentication and Authorization - JWT Tokens\Authentication and Authorization - JWT Tokens\bin\Debug\net8.0\Authentication and Authorization - JWT Tokens.exe
+C:\Users\Asus\Desktop\Authentication and Authorization - JWT Tokens\Authentication and Authorization - JWT Tokens\bin\Debug\net8.0\Authentication and Authorization - JWT Tokens.deps.json
+C:\Users\Asus\Desktop\Authentication and Authorization - JWT Tokens\Authentication and Authorization - JWT Tokens\bin\Debug\net8.0\Authentication and Authorization - JWT Tokens.runtimeconfig.json
+C:\Users\Asus\Desktop\Authentication and Authorization - JWT Tokens\Authentication and Authorization - JWT Tokens\bin\Debug\net8.0\Authentication and Authorization - JWT Tokens.dll
+C:\Users\Asus\Desktop\Authentication and Authorization - JWT Tokens\Authentication and Authorization - JWT Tokens\bin\Debug\net8.0\Authentication and Authorization - JWT Tokens.pdb
+C:\Users\Asus\Desktop\Authentication and Authorization - JWT Tokens\Authentication and Authorization - JWT Tokens\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Asus\Desktop\Authentication and Authorization - JWT Tokens\Authentication and Authorization - JWT Tokens\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Asus\Desktop\Authentication and Authorization - JWT Tokens\Authentication and Authorization - JWT Tokens\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Asus\Desktop\Authentication and Authorization - JWT Tokens\Authentication and Authorization - JWT Tokens\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Asus\Desktop\Authentication and Authorization - JWT Tokens\Authentication and Authorization - JWT Tokens\obj\Debug\net8.0\Authentication and Authorization - JWT Tokens.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Authentication and Authorization - JWT Tokens\Authentication and Authorization - JWT Tokens\obj\Debug\net8.0\Authentication and Authorization - JWT Tokens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Authentication and Authorization - JWT Tokens\Authentication and Authorization - JWT Tokens\obj\Debug\net8.0\Authentication and Authorization - JWT Tokens.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Authentication and Authorization - JWT Tokens\Authentication and Authorization - JWT Tokens\obj\Debug\net8.0\Authentication and Authorization - JWT Tokens.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Authentication and Authorization - JWT Tokens\Authentication and Authorization - JWT Tokens\obj\Debug\net8.0\Authentication and Authorization - JWT Tokens.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Authentication and Authorization - JWT Tokens\Authentication and Authorization - JWT Tokens\obj\Debug\net8.0\Authentication and Authorization - JWT Tokens.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Asus\Desktop\Authentication and Authorization - JWT Tokens\Authentication and Authorization - JWT Tokens\obj\Debug\net8.0\Authentication and Authorization - JWT Tokens.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\Desktop\Authentication and Authorization - JWT Tokens\Authentication and Authorization - JWT Tokens\obj\Debug\net8.0\scopedcss\bundle\Authentication and Authorization - JWT Tokens.styles.css
+C:\Users\Asus\Desktop\Authentication and Authorization - JWT Tokens\Authentication and Authorization - JWT Tokens\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Asus\Desktop\Authentication and Authorization - JWT Tokens\Authentication and Authorization - JWT Tokens\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Asus\Desktop\Authentication and Authorization - JWT Tokens\Authentication and Authorization - JWT Tokens\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Asus\Desktop\Authentication and Authorization - JWT Tokens\Authentication and Authorization - JWT Tokens\obj\Debug\net8.0\staticwebassets\msbuild.Authentication and Authorization - JWT Tokens.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Asus\Desktop\Authentication and Authorization - JWT Tokens\Authentication and Authorization - JWT Tokens\obj\Debug\net8.0\staticwebassets\msbuild.Authentication and Authorization - JWT Tokens.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Asus\Desktop\Authentication and Authorization - JWT Tokens\Authentication and Authorization - JWT Tokens\obj\Debug\net8.0\staticwebassets\msbuild.build.Authentication and Authorization - JWT Tokens.props
+C:\Users\Asus\Desktop\Authentication and Authorization - JWT Tokens\Authentication and Authorization - JWT Tokens\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Authentication and Authorization - JWT Tokens.props
+C:\Users\Asus\Desktop\Authentication and Authorization - JWT Tokens\Authentication and Authorization - JWT Tokens\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Authentication and Authorization - JWT Tokens.props
+C:\Users\Asus\Desktop\Authentication and Authorization - JWT Tokens\Authentication and Authorization - JWT Tokens\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Asus\Desktop\Authentication and Authorization - JWT Tokens\Authentication and Authorization - JWT Tokens\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Asus\Desktop\Authentication and Authorization - JWT Tokens\Authentication and Authorization - JWT Tokens\obj\Debug\net8.0\Authenti.95584174.Up2Date
+C:\Users\Asus\Desktop\Authentication and Authorization - JWT Tokens\Authentication and Authorization - JWT Tokens\obj\Debug\net8.0\Authentication and Authorization - JWT Tokens.dll
+C:\Users\Asus\Desktop\Authentication and Authorization - JWT Tokens\Authentication and Authorization - JWT Tokens\obj\Debug\net8.0\refint\Authentication and Authorization - JWT Tokens.dll
+C:\Users\Asus\Desktop\Authentication and Authorization - JWT Tokens\Authentication and Authorization - JWT Tokens\obj\Debug\net8.0\Authentication and Authorization - JWT Tokens.pdb
+C:\Users\Asus\Desktop\Authentication and Authorization - JWT Tokens\Authentication and Authorization - JWT Tokens\obj\Debug\net8.0\Authentication and Authorization - JWT Tokens.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Authentication and Authorization - JWT Tokens\Authentication and Authorization - JWT Tokens\obj\Debug\net8.0\ref\Authentication and Authorization - JWT Tokens.dll
